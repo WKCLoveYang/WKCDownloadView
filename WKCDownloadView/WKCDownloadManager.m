@@ -7,7 +7,7 @@
 //
 
 #import "WKCDownloadManager.h"
-#import "AFNetworking.h"
+#import <AFNetworking.h>
 
 @interface WKCDownloadManager()
 

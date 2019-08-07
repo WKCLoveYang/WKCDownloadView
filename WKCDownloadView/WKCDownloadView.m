@@ -62,12 +62,6 @@
     [self addConstraint:progressLeft];
     [self addConstraint:progressRight];
     
-//    [self.placeholderImageView mas_makeConstraints:^(MASConstraintMaker *make) {
-//        make.edges.equalTo(self);
-//    }];
-//    [self.progressView mas_makeConstraints:^(MASConstraintMaker *make) {
-//        make.edges.equalTo(self);
-//    }];
 }
 
 - (void)createMainDirectory
