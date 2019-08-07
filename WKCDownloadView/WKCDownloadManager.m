@@ -8,7 +8,6 @@
 
 #import "WKCDownloadManager.h"
 #import <AFNetworking.h>
-#import <SDWebImage.h>
 
 @interface WKCDownloadManager()
 
